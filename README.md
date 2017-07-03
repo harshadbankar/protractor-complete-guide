@@ -3,9 +3,9 @@ Creating this repository for those who want to start E2E testing of web applicat
 
 # What is E2E (End to End) testing? #
 
-    ##
      End to End testing is a technique which makes sure that your application is behaving as intended when put in front of the user. Means you are making sure of proper backend response, presentation of your application on different
-     devices (Responsive Design), behaviour of application as per defined states of it (Like app state after & before login) ##
+     devices (Responsive Design), behaviour of application as per defined states of it (Like app state after & before login)
+
 # What makes E2E testing essential #
 
     Consider manual testing of enterprise web application which has over 500+ functionality on every single **release**.
@@ -25,7 +25,7 @@ Creating this repository for those who want to start E2E testing of web applicat
 
 # About Protractor #
 
-    ## Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.##
+    Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.##
 
     Good to know:
         * Build on top of WebDriverJS
@@ -36,7 +36,7 @@ Creating this repository for those who want to start E2E testing of web applicat
           next steps
         * AngularJs specific Api (By binding, repeaters…)
 
-    More here: http://www.protractortest.org/#/
+    More here: http://www.protractortest.org
 # Setup #
 
     1. Install latest nodejs.  Download here: https://nodejs.org/en/
@@ -49,9 +49,9 @@ Creating this repository for those who want to start E2E testing of web applicat
     4. webdriver-manager start
         - This will start selenium server and output bunch of logs initially
 
-    ## Now we are ready to start our testing! ##
+    Now we are ready to start using protractor!
 
-    # Next:  Checkout step 2 #
+# Next:  Checkout step 2 branch #
     
 
 
