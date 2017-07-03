@@ -1,0 +1,22 @@
+{
+  "name": "protractor-complete-guide",
+  "version": "1.0.0",
+  "description": "Creating this repository for those who want to start E2E testing of web application using protractor",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshadbankar/protractor-complete-guide.git"
+  },
+  "author": "Harshad Bankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshadbankar/protractor-complete-guide/issues"
+  },
+  "homepage": "https://github.com/harshadbankar/protractor-complete-guide#readme",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  }
+}
