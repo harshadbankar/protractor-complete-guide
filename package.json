@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/harshadbankar/protractor-complete-guide/issues"
   },
-  "homepage": "https://github.com/harshadbankar/protractor-complete-guide#readme",
-  "devDependencies": {
-    "protractor": "^5.1.2"
-  }
+  "homepage": "https://github.com/harshadbankar/protractor-complete-guide#readme"
 }
