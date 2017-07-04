@@ -1,12 +1,12 @@
-# protractor-complete-guide #
+# protractor-complete-guide
 Creating this repository for those who want to start E2E testing of web application using protractor
 
-# What is E2E (End to End) testing? #
+# What is E2E (End to End) testing?
 
      End to End testing is a technique which makes sure that your application is behaving as intended when put in front of the user. Means you are making sure of proper backend response, presentation of your application on different
      devices (Responsive Design), behaviour of application as per defined states of it (Like app state after & before login)
 
-# What makes E2E testing essential #
+# What makes E2E testing essential
 
     Consider manual testing of enterprise web application which has over 500+ functionality on every single **release**.
     That sounds like testing is not a easy job without automation of it right?
@@ -23,7 +23,7 @@ Creating this repository for those who want to start E2E testing of web applicat
         * Can I release this code?
         * It does NOT replace Unit Testing!
 
-# About Protractor #
+# About Protractor
 
     Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.##
 
@@ -37,7 +37,7 @@ Creating this repository for those who want to start E2E testing of web applicat
         * AngularJs specific Api (By binding, repeaters…)
 
     More here: http://www.protractortest.org
-# Setup #
+# Setup
 
     1. Install latest nodejs.  Download here: https://nodejs.org/en/
         - Make sure installation is successful by running node -v , npm -v on terminal
@@ -51,7 +51,7 @@ Creating this repository for those who want to start E2E testing of web applicat
 
     Now we are ready to start using protractor!
 
-# Next:  Checkout step 2 branch #
+## Next:  Checkout step 2 branch
     
 
 
