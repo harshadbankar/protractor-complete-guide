@@ -3,7 +3,7 @@
 
 # config.js Explained #
 
- seleniumAddress: this specifies where to talk to your selenium server
- specs: helps protractor to know, where test spcification files are
+ * seleniumAddress: this specifies where to talk to your selenium server
+ * specs: helps protractor to know, where test spcification files are
 
- NOTE: Chrome is default browser for above configuration
+ * #NOTE: Chrome is default browser for above configuration
