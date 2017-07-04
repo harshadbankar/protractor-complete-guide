@@ -1,7 +1,7 @@
 
-# Step 2 - Add protractor basic test spcecification file #
+# Step 2 - Add protractor basic test spcecification file 
 
-# specs.js Explained #
+## specs.js Explained 
 
   * describe : its global jasmine function which takes two params, 1: stirng: Name or title for a spec suit, 2: function: This is a block of code that implements the suit
 
