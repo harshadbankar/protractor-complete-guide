@@ -9,4 +9,4 @@
 
   * protractor config.js : this will feed our configuration file to protractor and then protractor will do its job of EXECUTING spces!, also check options that 'protractor' provides by simply running 'protractor' on terminal
 
-   ## Result: After test is successful it should print '1 spec, 0 failures Finished in 3.376 seconds' 
+   ## Result: After test is successful it should print '1 spec, 0 failures Finished in <> seconds' 
