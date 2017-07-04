@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/harshadbankar/protractor-complete-guide/issues"
   },
-  "homepage": "https://github.com/harshadbankar/protractor-complete-guide#readme"
+  "homepage": "https://github.com/harshadbankar/protractor-complete-guide#readme",
+  "devDependencies": {
+    "protractor-snapshot": "^1.2.0",
+    "rimraf": "^2.6.1",
+    "up-the-tree": "^0.3.2"
+  }
 }
