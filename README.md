@@ -1,7 +1,7 @@
 
-# Step 3 - Run test for first time! #
+# Step 3 - Run test for first time! 
 
-## commands explanied #
+## commands explanied 
 
 ### *Execute below commands in same directory and in same sequence
 
